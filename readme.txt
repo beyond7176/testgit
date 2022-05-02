@@ -7,3 +7,4 @@
 99999999
 8888888
 应用 –no-ff来禁用”Fast forward”模式
+issue-404 test stash
